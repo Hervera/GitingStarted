@@ -1,5 +1,5 @@
-# me
-### This is me
+# Git-ing Started with Git
+### A fun project to learn git as part of the DevMaketer community.
 
 
 
